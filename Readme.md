@@ -1,16 +1,10 @@
 #### **DevOps Practice**
 
-
-
 Repositorio creado como entorno de práctica y experimentación con herramientas, conceptos y flujos de trabajo relacionados con DevOps.
-
-
 
 El objetivo es utilizar este proyecto como laboratorio para implementar y probar diferentes prácticas de automatización, integración continua, despliegue y gestión de infraestructura.
 
-
-
-Objetivos
+**Objetivos**
 
 Practicar Git y estrategias de branching.
 
@@ -28,7 +22,4 @@ Implementar automatización, testing y análisis de calidad.
 
 Explorar herramientas de monitoreo y observabilidad.
 
-
-
 Este repositorio tiene fines educativos y será modificado progresivamente a medida que se desarrollen nuevas prácticas de DevOps.
-
